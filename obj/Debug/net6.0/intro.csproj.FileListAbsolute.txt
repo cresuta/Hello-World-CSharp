@@ -1,0 +1,15 @@
+/Users/cresuta/workspace/Backend/intro/bin/Debug/net6.0/intro
+/Users/cresuta/workspace/Backend/intro/bin/Debug/net6.0/intro.deps.json
+/Users/cresuta/workspace/Backend/intro/bin/Debug/net6.0/intro.runtimeconfig.json
+/Users/cresuta/workspace/Backend/intro/bin/Debug/net6.0/intro.dll
+/Users/cresuta/workspace/Backend/intro/bin/Debug/net6.0/ref/intro.dll
+/Users/cresuta/workspace/Backend/intro/bin/Debug/net6.0/intro.pdb
+/Users/cresuta/workspace/Backend/intro/obj/Debug/net6.0/intro.csproj.AssemblyReference.cache
+/Users/cresuta/workspace/Backend/intro/obj/Debug/net6.0/intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cresuta/workspace/Backend/intro/obj/Debug/net6.0/intro.AssemblyInfoInputs.cache
+/Users/cresuta/workspace/Backend/intro/obj/Debug/net6.0/intro.AssemblyInfo.cs
+/Users/cresuta/workspace/Backend/intro/obj/Debug/net6.0/intro.csproj.CoreCompileInputs.cache
+/Users/cresuta/workspace/Backend/intro/obj/Debug/net6.0/intro.dll
+/Users/cresuta/workspace/Backend/intro/obj/Debug/net6.0/ref/intro.dll
+/Users/cresuta/workspace/Backend/intro/obj/Debug/net6.0/intro.pdb
+/Users/cresuta/workspace/Backend/intro/obj/Debug/net6.0/intro.genruntimeconfig.cache
